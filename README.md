@@ -1,2 +1,19 @@
-# hello-world-python
-Minimal Python application that prints Hello World
+# Hello World Python
+
+????Python???????????
+
+## ???
+
+```bash
+python hello.py
+```
+
+## ??
+
+```
+Hello World
+```
+
+## ??
+
+- Python 3.x
